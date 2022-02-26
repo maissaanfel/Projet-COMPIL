@@ -1,0 +1,9 @@
+##PROCESS
+##ARRAY
+Programme TpCompil {
+VAR INTEGER :: Xe$
+VAR INTEGER :: Ab$
+Ab := (-32787)$
+/*Xe := 23 +2$*/
+WRITE ("voilà la valeur de idf ; " | Fe)$
+}
